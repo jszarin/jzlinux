@@ -23,7 +23,7 @@ modules:
       # - starship
       - fish
       - borgbackup
-      - steam-devices
+      - steam
       - tailscale
       - mc
     remove:
