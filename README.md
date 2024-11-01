@@ -4,6 +4,13 @@ See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup i
 
 After setup, it is recommended you update this README to describe your custom image.
 
+Based on universal-blue silverblue-main, plus:
+* Tailscale repo and tailscale
+* Fish
+* Steam
+* Midnight-Commander
+
+
 ## Installation
 
 > **Warning**  
